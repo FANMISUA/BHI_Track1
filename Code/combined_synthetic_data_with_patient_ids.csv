@@ -1,4 +1,4 @@
-Datetime,Code,Activity_Type,Heart rate___beats/minute,Calories burned_kcal,Exercise duration_s,Sleep duration_minutes,Sleep type duration_minutes,Floors climbed___floors,Patient ID
+Datetime,Code,Activity_Type,Heart rate___beats/minute,Calories burned_kcal,Exercise duration_s,Sleep type duration_minutes,Sleep duration_minutes,Floors climbed___floors,Patient ID
 2022=12-08 14:17,,No Physical Activity,72.0,,,,,,User0
 2022=12-08 21:05,LA11836-6,Running,156.0,20.0,40851.0,,,,User0
 2022=12-08 22:01,LA11836-6,Running,170.0,30.0,44878.0,,,,User0
