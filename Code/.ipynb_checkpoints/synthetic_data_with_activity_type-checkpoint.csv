@@ -1,0 +1,401 @@
+Activity_Type,Heart rate___beats/minute,Sleep type duration_minutes,Sleep duration_minutes,Calories burned_kcal,Exercise duration_s,Floors climbed___floors
+Light Sleep,55,3,7,,,
+Light Sleep,59,9,14,,,
+Light Sleep,78,5,9,,,
+Light Sleep,80,7,8,,,
+Light Sleep,71,11,20,,,
+Light Sleep,84,10,24,,,
+Light Sleep,84,16,17,,,
+Light Sleep,81,10,22,,,
+Light Sleep,58,11,14,,,
+Light Sleep,51,5,10,,,
+Light Sleep,54,7,11,,,
+Light Sleep,74,16,24,,,
+Light Sleep,83,9,21,,,
+Light Sleep,79,5,15,,,
+Light Sleep,56,1,5,,,
+Light Sleep,67,5,7,,,
+Light Sleep,83,10,22,,,
+REM Sleep,52,3,9,,,
+Light Sleep,62,7,13,,,
+Light Sleep,78,12,9,,,
+REM Sleep,56,0,1,,,
+Light Sleep,78,8,17,,,
+Light Sleep,71,19,33,,,
+Light Sleep,70,8,21,,,
+Light Sleep,70,13,30,,,
+Light Sleep,82,13,14,,,
+Light Sleep,77,13,35,,,
+Light Sleep,70,13,18,,,
+REM Sleep,52,0,0,,,
+Light Sleep,78,13,10,,,
+Light Sleep,69,14,31,,,
+REM Sleep,49,1,3,,,
+Light Sleep,80,19,38,,,
+Light Sleep,78,13,27,,,
+Light Sleep,52,6,13,,,
+Light Sleep,79,10,23,,,
+Light Sleep,72,8,9,,,
+Light Sleep,70,13,17,,,
+REM Sleep,53,2,9,,,
+REM Sleep,61,0,1,,,
+Light Sleep,81,6,13,,,
+Light Sleep,83,12,35,,,
+Light Sleep,69,7,26,,,
+Light Sleep,82,17,40,,,
+Light Sleep,81,5,11,,,
+REM Sleep,53,2,5,,,
+Light Sleep,83,12,22,,,
+Light Sleep,78,4,15,,,
+Light Sleep,78,14,15,,,
+Light Sleep,83,5,12,,,
+Light Sleep,78,5,8,,,
+Light Sleep,69,16,35,,,
+Light Sleep,66,10,21,,,
+Light Sleep,51,5,6,,,
+Light Sleep,64,12,24,,,
+Light Sleep,80,17,32,,,
+Light Sleep,50,5,10,,,
+Light Sleep,83,10,22,,,
+Light Sleep,77,18,31,,,
+Light Sleep,85,8,14,,,
+Light Sleep,70,11,22,,,
+Light Sleep,79,20,33,,,
+Light Sleep,67,15,18,,,
+Light Sleep,80,12,20,,,
+REM Sleep,52,2,3,,,
+Light Sleep,84,11,17,,,
+Light Sleep,80,8,14,,,
+Light Sleep,54,4,7,,,
+REM Sleep,53,0,1,,,
+Light Sleep,65,5,4,,,
+Light Sleep,70,10,17,,,
+Light Sleep,79,10,18,,,
+Light Sleep,49,5,8,,,
+REM Sleep,57,0,-1,,,
+Light Sleep,77,20,30,,,
+REM Sleep,55,1,-1,,,
+REM Sleep,50,2,4,,,
+Light Sleep,67,1,0,,,
+Light Sleep,53,7,10,,,
+Light Sleep,76,8,38,,,
+Light Sleep,78,17,25,,,
+Light Sleep,80,9,23,,,
+Light Sleep,58,0,0,,,
+Light Sleep,80,11,22,,,
+Light Sleep,74,10,41,,,
+Light Sleep,55,5,5,,,
+Light Sleep,66,14,40,,,
+Light Sleep,81,11,20,,,
+Light Sleep,63,5,13,,,
+Light Sleep,74,5,9,,,
+Light Sleep,62,9,13,,,
+Light Sleep,80,6,14,,,
+Light Sleep,51,6,6,,,
+Light Sleep,59,7,15,,,
+Light Sleep,49,3,12,,,
+REM Sleep,56,5,9,,,
+REM Sleep,57,1,7,,,
+Light Sleep,49,7,9,,,
+REM Sleep,56,0,0,,,
+Light Sleep,63,3,28,,,
+Running,169,,,29,41018,
+Running,147,,,8,12089,
+Running,120,,,122,92241,
+Running,153,,,10,12025,
+Running,147,,,9,13298,
+Running,150,,,8,9979,
+Running,144,,,15,63495,
+Running,127,,,113,67788,
+Running,156,,,10,9813,
+Running,158,,,8,12191,
+Running,158,,,9,8973,
+Walking,96,,,142,121524,
+Running,135,,,9,14081,
+Walking,94,,,152,132672,
+Running,164,,,21,18886,
+Running,143,,,58,45440,
+Running,123,,,83,49683,
+Running,165,,,57,53732,
+Running,121,,,121,79941,
+Running,107,,,115,41549,
+Running,122,,,109,44484,
+Running,140,,,18,15284,
+Running,133,,,38,46835,
+Running,173,,,16,17147,
+Running,153,,,9,13810,
+Running,120,,,9,9427,
+Running,139,,,58,49757,
+Running,169,,,19,24124,
+Running,120,,,112,87337,
+Running,154,,,9,13118,
+Running,144,,,19,24079,
+Running,158,,,8,17794,
+Running,138,,,9,13343,
+Running,110,,,93,38229,
+Running,141,,,10,13057,
+Running,148,,,10,12886,
+Running,122,,,9,10814,
+Running,155,,,9,10693,
+Running,105,,,126,51094,
+Running,103,,,113,43096,
+Running,155,,,8,9147,
+Running,135,,,122,42659,
+Running,105,,,36,30662,
+Running,105,,,139,44302,
+Running,170,,,94,52180,
+Running,141,,,9,9808,
+Running,122,,,137,86815,
+Running,140,,,9,12584,
+Running,161,,,9,17666,
+Running,145,,,9,19849,
+Running,155,,,19,21948,
+Running,122,,,101,32027,
+Running,120,,,10,12807,
+Running,160,,,9,13613,
+Running,149,,,10,9978,
+Running,109,,,120,47113,
+Running,107,,,125,45195,
+Running,121,,,149,88339,
+Walking,89,,,137,110443,
+Running,168,,,10,96543,
+Running,107,,,58,44366,
+Running,165,,,27,37694,
+Running,156,,,8,17908,
+Walking,93,,,140,117662,
+Walking,123,,,123,108540,
+Running,166,,,10,15958,
+Running,121,,,112,8511,
+Running,118,,,109,85980,
+Running,106,,,122,45939,
+Running,108,,,51,46458,
+Running,157,,,9,9245,
+Running,142,,,10,13863,
+Running,121,,,9,11933,
+Running,120,,,112,80608,
+Running,148,,,9,13680,
+Running,152,,,18,15141,
+Running,142,,,10,23868,
+Running,120,,,117,97003,
+Running,118,,,117,51387,
+Running,121,,,118,67790,
+Running,140,,,9,11469,
+Running,161,,,83,14072,
+Running,123,,,96,46443,
+Running,156,,,9,11350,
+Running,151,,,9,12982,
+Running,120,,,111,93237,
+Running,154,,,8,13099,
+Running,150,,,8,9024,
+Walking,94,,,143,121782,
+Running,153,,,10,12067,
+Running,156,,,10,13391,
+Running,122,,,11,8755,
+Running,143,,,8,12588,
+Running,141,,,47,36238,
+Running,154,,,9,13109,
+Running,157,,,9,11175,
+Running,106,,,127,46634,
+Running,148,,,8,9752,
+Running,108,,,122,43540,
+Running,155,,,9,13807,
+No Physical Activity,56,,,,,
+No Physical Activity,64,,,,,
+No Physical Activity,67,,,,,
+No Physical Activity,62,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,73,,,,,
+No Physical Activity,68,,,,,
+No Physical Activity,60,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,70,,,,,
+No Physical Activity,63,,,,,
+No Physical Activity,58,,,,,
+No Physical Activity,80,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,57,,,,,
+No Physical Activity,60,,,,,
+No Physical Activity,57,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,73,,,,,
+No Physical Activity,58,,,,,
+No Physical Activity,76,,,,,
+No Physical Activity,80,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,71,,,,,
+No Physical Activity,84,,,,,
+No Physical Activity,68,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,57,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,58,,,,,
+No Physical Activity,70,,,,,
+No Physical Activity,60,,,,,
+No Physical Activity,64,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,64,,,,,
+No Physical Activity,76,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,55,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,80,,,,,
+No Physical Activity,72,,,,,
+No Physical Activity,57,,,,,
+No Physical Activity,58,,,,,
+No Physical Activity,62,,,,,
+No Physical Activity,75,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,74,,,,,
+No Physical Activity,83,,,,,
+No Physical Activity,75,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,62,,,,,
+No Physical Activity,75,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,63,,,,,
+No Physical Activity,63,,,,,
+No Physical Activity,55,,,,,
+No Physical Activity,82,,,,,
+No Physical Activity,85,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,80,,,,,
+No Physical Activity,55,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,72,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,62,,,,,
+No Physical Activity,87,,,,,
+No Physical Activity,65,,,,,
+No Physical Activity,58,,,,,
+No Physical Activity,74,,,,,
+No Physical Activity,77,,,,,
+No Physical Activity,70,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,72,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,56,,,,,
+No Physical Activity,65,,,,,
+No Physical Activity,60,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,74,,,,,
+No Physical Activity,67,,,,,
+No Physical Activity,76,,,,,
+No Physical Activity,64,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,61,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,70,,,,,
+No Physical Activity,75,,,,,
+No Physical Activity,57,,,,,
+No Physical Activity,66,,,,,
+No Physical Activity,59,,,,,
+No Physical Activity,64,,,,,
+No Physical Activity,69,,,,,
+Floors Climbed,52,,,,,0
+Floors Climbed,49,,,,,1
+Floors Climbed,54,,,,,0
+Floors Climbed,73,,,,,1
+Floors Climbed,55,,,,,0
+Floors Climbed,54,,,,,0
+Floors Climbed,73,,,,,0
+Floors Climbed,69,,,,,0
+Floors Climbed,66,,,,,0
+Floors Climbed,56,,,,,0
+Floors Climbed,65,,,,,0
+Floors Climbed,66,,,,,1
+Floors Climbed,54,,,,,0
+Floors Climbed,69,,,,,1
+Floors Climbed,64,,,,,0
+Floors Climbed,56,,,,,0
+Floors Climbed,77,,,,,0
+Floors Climbed,67,,,,,0
+Floors Climbed,65,,,,,0
+Floors Climbed,67,,,,,1
+Floors Climbed,55,,,,,0
+Floors Climbed,54,,,,,0
+Floors Climbed,66,,,,,0
+Floors Climbed,56,,,,,0
+Floors Climbed,82,,,,,1
+Floors Climbed,74,,,,,1
+Floors Climbed,54,,,,,1
+Floors Climbed,54,,,,,0
+Floors Climbed,59,,,,,0
+Floors Climbed,52,,,,,1
+Floors Climbed,69,,,,,0
+Floors Climbed,67,,,,,0
+Floors Climbed,68,,,,,1
+Floors Climbed,51,,,,,0
+Floors Climbed,54,,,,,0
+Floors Climbed,68,,,,,0
+Floors Climbed,55,,,,,0
+Floors Climbed,75,,,,,1
+Floors Climbed,66,,,,,1
+Floors Climbed,68,,,,,1
+Floors Climbed,60,,,,,1
+Floors Climbed,49,,,,,0
+Floors Climbed,57,,,,,0
+Floors Climbed,53,,,,,0
+Floors Climbed,49,,,,,0
+Floors Climbed,69,,,,,0
+Floors Climbed,68,,,,,1
+Floors Climbed,71,,,,,0
+Floors Climbed,67,,,,,1
+Floors Climbed,57,,,,,0
+Floors Climbed,64,,,,,0
+Floors Climbed,65,,,,,0
+Floors Climbed,56,,,,,0
+Floors Climbed,49,,,,,0
+Floors Climbed,54,,,,,0
+Floors Climbed,55,,,,,1
+Floors Climbed,65,,,,,0
+Floors Climbed,66,,,,,1
+Floors Climbed,66,,,,,1
+Floors Climbed,68,,,,,0
+Floors Climbed,67,,,,,1
+Floors Climbed,55,,,,,0
+Floors Climbed,74,,,,,1
+Floors Climbed,66,,,,,0
+Floors Climbed,57,,,,,1
+Floors Climbed,74,,,,,1
+Floors Climbed,54,,,,,0
+Floors Climbed,67,,,,,0
+Floors Climbed,55,,,,,0
+Floors Climbed,57,,,,,0
+Floors Climbed,52,,,,,0
+Floors Climbed,65,,,,,0
+Floors Climbed,75,,,,,0
+Floors Climbed,59,,,,,1
+Floors Climbed,57,,,,,0
+Floors Climbed,73,,,,,0
+Floors Climbed,64,,,,,1
+Floors Climbed,63,,,,,0
+Floors Climbed,53,,,,,1
+Floors Climbed,64,,,,,0
+Floors Climbed,66,,,,,1
+Floors Climbed,57,,,,,1
+Floors Climbed,72,,,,,1
+Floors Climbed,51,,,,,0
+Floors Climbed,72,,,,,0
+Floors Climbed,66,,,,,1
+Floors Climbed,55,,,,,1
+Floors Climbed,67,,,,,0
+Floors Climbed,66,,,,,0
+Floors Climbed,68,,,,,1
+Floors Climbed,67,,,,,0
+Floors Climbed,55,,,,,0
+Floors Climbed,57,,,,,0
+Floors Climbed,63,,,,,0
+Floors Climbed,55,,,,,0
+Floors Climbed,69,,,,,0
+Floors Climbed,77,,,,,1
+Floors Climbed,68,,,,,1
+Floors Climbed,55,,,,,1
+Floors Climbed,67,,,,,0
